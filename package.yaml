@@ -1,2 +1,2 @@
-components:
+services:
 - service-s: "*"
